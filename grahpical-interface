@@ -1,18 +1,1 @@
-#include<stdio.h>
-#include<iostream.h>
-#include<dos.h>
-#include<process.h>
-#include<conio.h>
-#include<graphics.h>
-#include<math.h>
-//void render(float,float,float, float,float,float, float,float,float,
-float,float,float);
-void initialize(void);
-void firstpage(void);
-void call_first(void);
-float intensity,alpha,thita,tempy,tempz,tempx;
-char ch='4';
-char ch1='1';
-char ch2='1';
-int pts1[5][3];
-float tx,ty,tz,d=.5;
+just need a conifirmation
